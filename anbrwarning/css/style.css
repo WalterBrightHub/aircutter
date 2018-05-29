@@ -1,0 +1,28 @@
+#angeContainer{
+    margin-top: 40px;
+}
+body{
+    letter-spacing: 1px;
+}
+body{
+    background-color: rgb(220, 155, 97);
+}
+.info-block{
+    padding: 1px 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    background-color: rgb(238, 187, 142);
+}
+a.btn{
+    white-space: inherit;
+    margin: 10px 0px;
+}
+.list-group-item{
+    background-color: rgb(255, 231, 211);
+}
+a:hover{
+    text-decoration-line: none;
+}
+.row{
+    margin-bottom: 10px;
+}

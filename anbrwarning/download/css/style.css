@@ -1,6 +1,6 @@
 .dllist>li{
     list-style-type: none;
-    border-top: 3px solid #bbb;
+    border-top: 3px solid rgb(192, 118, 53);
 
 }
 ul li ul li{
@@ -36,4 +36,13 @@ img{
 }
 .dllist>li{
     margin-bottom: 10px;
+    background-color: rgb(255, 231, 211);
+    padding: 5px 15px;
+    border-radius: 5px;
+}
+body{
+    background-color: rgb(220, 155, 97);
+}
+.container{
+    margin-bottom: 80px;
 }
